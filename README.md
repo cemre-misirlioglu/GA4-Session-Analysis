@@ -1,0 +1,3 @@
+Analyzed a Google Analytics 4 (GA4) dataset in BigQuery to investigate five key questions related to digital marketing and e-commerce performance. Examined online campaign details and prepared data for BI reporting. Calculated conversion rates by traffic channel and date to assess performance differences. Compared conversion performance across landing pages and used correlation analysis to explore the relationship between user engagement and purchases. Presented data-driven insights into campaign performance and user behavior.
+Tools: Google Analytics 4 (GA4), BigQuery, SQL
+![GA4 Session Analysis Preview](ga4%20session%20analysis%20preview.png)
